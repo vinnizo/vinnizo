@@ -27,10 +27,3 @@ Here are some ideas to get you started:
 ### 🚀💻 Technologies:
 [<img src="https://img.shields.io/badge/HTML5-important.svg?&style=flat-square&logo=html5&logoColor=white"/>](#)
 [<img src="https://img.shields.io/badge/CSS3-blueviolet.svg?&style=flat-square&logo=css3&logoColor=white"/>](#)
-
-### ⚡ GitHub Stats
-<div align="center">
-  <a href="https://github.com/vinnio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnizo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnizo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
