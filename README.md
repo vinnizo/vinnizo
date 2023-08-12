@@ -1,9 +1,9 @@
 ### Hi there, I'm Vinícius Araújo 👋
 
-Looking to be a Back-End developer, football lover, technology enthusiast
+Looking to be a Front-End developer, football lover, technology enthusiast
 
 
-I'm currently learning **HTML** and **CSS* 
+I'm currently learning **HTML** and **CSS**
 <!--
 **vinnizo/vinnizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
