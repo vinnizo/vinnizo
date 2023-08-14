@@ -3,7 +3,7 @@
 Looking to be a Front-End developer, football lover, technology enthusiast
 
 
-I'm currently learning **HTML** and **CSS**
+I'm currently learning **Bootstrap** and **JavaScript**
 <!--
 **vinnizo/vinnizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
