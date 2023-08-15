@@ -1,6 +1,6 @@
 ### Hi there, I'm Vinícius Araújo 👋
 
-Looking to be a Front-End developer, football lover, technology enthusiast
+Looking to be a Front-End developer! And as a good brazilian stereotype, i'm a football lover. Also a technology enthusiast.
 
 
 I'm currently learning **Bootstrap** and **JavaScript**
