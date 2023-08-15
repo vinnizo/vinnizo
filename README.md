@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 🚀💻 Technologies:
 [<img src="https://img.shields.io/badge/HTML5-important.svg?&style=flat-square&logo=html5&logoColor=white"/>](#)
-[<img src="https://img.shields.io/badge/CSS3-blueviolet.svg?&style=flat-square&logo=css3&logoColor=white"/>](#)
+[<img src="https://img.shields.io/badge/CSS3-blue.svg?&style=flat-square&logo=css3&logoColor=white"/>](#)
 [<img src="https://img.shields.io/badge/Bootstrap-blueviolet.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>](#)
 
 
