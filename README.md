@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 📞 How to reach me:
 [<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vinicius-am/) 
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/vinnizo/)
-[<img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white">](mailto:araujovinicius@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white">](mailto:araujoviniciusm@gmail.com)
 
 
 ### 🚀💻 Technologies:
