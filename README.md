@@ -1,9 +1,9 @@
 ### Hi there, I'm Vinícius Araújo 👋
 
-Looking to be a Front-End developer! And as a good brazilian stereotype, i'm a football lover. Also a technology enthusiast.
+Looking to be a Fullstack developer! And as a good brazilian stereotype, i'm a football lover. Also a technology enthusiast.
 
 
-I'm currently learning **Bootstrap** and **JavaScript**
+I'm currently learning **Java**, **JavaScript** and **PHP**
 <!--
 **vinnizo/vinnizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
